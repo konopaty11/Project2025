@@ -1,0 +1,160 @@
+{
+    "Prompts" :
+    {
+        "PlayBtn" :
+        {
+            "en" : "Start the game",
+            "ru" : "Начать игру"
+        },
+
+        "LvlEditorBtn" :
+        {
+            "en" : "Creating or editoring level",
+            "ru" : "Создание или редактирвание уровня"
+        },
+
+        "SettingBtn" :
+        {
+            "en" : "Settings",
+            "ru" : "Настройки"
+        },
+
+        "CloseAppBtn" :
+        {
+            "en" : "Exit from the game",
+            "ru" : "Выйти из игры"
+        },
+
+        "CloseWin" :
+        {
+            "en" : "Close the current window",
+            "ru" : "Закрыть текущее окно"
+        },
+
+        "PlusBtn" :
+        {
+            "en" : "Add the coins",
+            "ru" : "Добавить монеты"
+        },
+
+        "StoreBtn" :
+        {
+            "en" : "Buy the coins",
+            "ru" : "Купить монеты"
+        },
+
+        "BackgroundBtn" :
+        {
+            "en" : "Buy or select the background",
+            "ru" : "Купить или выбрать фон"
+        },
+
+        "HomeBtn" :
+        {
+            "en" : "Return to main menu",
+            "ru" : "Вернуться в главное меню"
+        },
+
+        "BuyCoins" :
+        {
+            "en" : "Buy the coins",
+            "ru" : "Купить монеты"
+        },
+
+        "GetCoinsInMin" :
+        {
+            "en" : "Get 100 coins for minut",
+            "ru" : "Получить 100 монет за минуту"
+        },
+
+        "Get100Coins" :
+        {
+            "en" : "Get 100 coins for watch a video",
+            "ru" : "Получить 100 монет за просмотр видео"
+        },
+
+        "Get3XCoins" :
+        {
+            "en" : "Get X3 coins for watch a video",
+            "ru" : "Получить X3 монет за просмотр видео"
+        },
+
+        "RestoreLvl" :
+        {
+            "en" : "Restore the level for wathc a video",
+            "ru" : "Востановить уровень за просмотр видео"
+        },
+
+        "NoThanks" :
+        {
+            "en" : "Continue without reward",
+            "ru" : "Продолжить без награды"
+        },
+
+        "SaveSettings" :
+        {
+            "en" : "Save settings and close the window",
+            "ru" : "Сохранить настройки и закрыть окно"
+        },
+        
+        "DontSaveSettings" :
+        {
+            "en" : "Dont save settings and close the window",
+            "ru" : "Не сохронять настройки и закрыть окно"
+        },
+
+        "ApplyBG" :
+        {
+            "en" : "Apply this background",
+            "ru" : "Применить этот фон"
+        },
+
+        "DeleteObject" :
+        {
+            "en" : "Delete this object",
+            "ru" : "Удалить этот объект"
+        },
+
+        "RotateObject" :
+        {
+            "en" : "Rotate this object",
+            "ru" : "Повернуть этот объект"
+        },
+
+        "SettingsLevel" :
+        {
+            "en" : "Settings level",
+            "ru" : "Настройки уровня"
+        },
+        
+        "AddLevel" :
+        {
+            "en" : "Add level",
+            "ru" : "Добавить уровень"
+        },
+
+        "RemoveLevel" :
+        {
+            "en" : "Remove level",
+            "ru" : "Удалить уровень"
+        },
+
+        "LoadLevel" :
+        {
+            "en" : "Load level",
+            "ru" : "Загрузить уровень"
+        },
+
+        "SaveLevel" :
+        {
+            "en" : "Save level",
+            "ru" : "Сохранить уровень"
+        },
+
+        "CarSettings" :
+        {
+            "en" : "Settings upgrades of car",
+            "ru" : "Настройки улучшений транспорта"
+        }
+    }
+}
